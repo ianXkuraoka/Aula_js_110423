@@ -1,5 +1,5 @@
 //WHILE
-
+/*
 let cont =0
 while(cont < 10){
     document.write(" O valor é: " + cont);
@@ -17,3 +17,6 @@ do{
     document.write("<br>")
     cont1++
 }while(cont1 ==0)
+
+*/
+
