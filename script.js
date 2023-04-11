@@ -20,3 +20,7 @@ do{
 
 */
 
+function mudar(){
+    let novo =document.getElementById("idNome")
+    document.getElementById("titulo").innerHTML = novo.value;
+}
